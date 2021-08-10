@@ -49,4 +49,40 @@
    
     
 }
+/* meet our rooms */
+.meet { 
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 3%;
+}
 
+
+/* room text  */
+.room-text { 
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 3%;
+}
+
+/* room section */
+.rooms-structure{ 
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 3%;
+    width: 100%; 
+    border : 1px solid white
+    
+}
+
+
+
+
+.scroll-imgs{
+    margin-right: 10%;
+   
+}
