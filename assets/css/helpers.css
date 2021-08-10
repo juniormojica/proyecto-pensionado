@@ -1,0 +1,17 @@
+
+
+.display-flex { 
+    display: flex;
+}
+
+
+.side-margins { 
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.flex-center { 
+    justify-content: center;
+    align-items: center;
+}
+

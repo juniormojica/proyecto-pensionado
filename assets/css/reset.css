@@ -1,0 +1,17 @@
+* { 
+    margin : 0 ; 
+    padding:  0 ;
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+a { 
+    font-family: 'Questrial', sans-serif;
+    text-decoration: none;
+    color: black;
+    background-color: transparent;
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 1%;
+
+    
+}

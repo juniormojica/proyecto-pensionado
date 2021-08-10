@@ -1,0 +1,16 @@
+.outside-nav { 
+    margin-top: 1%;
+}
+.nav-container { 
+    justify-content: space-evenly;
+    align-items: center;
+    
+    background-color: #BBFDEE;
+    
+}
+.nav-container.col-4 { 
+    margin: 0;
+    
+    align-items: center;
+}
+
