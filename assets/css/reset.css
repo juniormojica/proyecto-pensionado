@@ -7,11 +7,16 @@
 a { 
     font-family: 'Questrial', sans-serif;
     text-decoration: none;
-    color: black;
+   
     background-color: transparent;
     font-size: 1.2rem;
     text-align: center;
-    padding: 1%;
+    padding: 2%;
 
     
+}
+
+a:hover { 
+    background-color: #A8C1E3;
+    transition: 1s;
 }
