@@ -1,3 +1,20 @@
+
+/* responsive nav  */
+@media (min-width:768px){
+    .hamburguer-icon i{ 
+        display: none;
+    }
+    .sd-nav-responsive-container { 
+        display: none;
+    }
+    
+}
+
+@media (max-width:768px){
+    .nav-container a{
+        display: none;
+    }
+}
 /* nav start  */
 .outside-nav { 
     margin-top: 1%;
@@ -6,7 +23,7 @@
 .nav-container { 
     justify-content: space-evenly;
     align-items: center;
-    position: sticky;
+    
     /* background-color: #BBFDEE; */
     
 }
@@ -15,6 +32,31 @@
     
     align-items: center;
 }
+
+/* responsive text nav  */
+
+.hamburguer-icon { 
+    justify-content: flex-end;
+    align-items: center;
+}
+.sd-nav-responsive-container{
+    width: 100%;
+}
+
+.sd-nav-responsive{
+    justify-content: flex-end;
+    padding-top :3%
+    
+}
+.sd-nav-responsive-text a {
+    display: block;
+    padding: 10%;
+    width: 100%;
+    border :1px solid black;
+    width: 100%;
+    
+}
+
 
 /* navegation end */
 
